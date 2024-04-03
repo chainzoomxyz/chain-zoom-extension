@@ -1,0 +1,17 @@
+export const ALERT_MESSAGES = Object.freeze({
+  COPY_REF_CODE_SUCCESS: 'Copy ref code success!',
+  COPY_TOKEN_ADDRESS_SUCCESS: 'Copy token address success!',
+  LOGIN_SUCCESS: 'Connect Metamask success!',
+  LOGIN_FAILED: 'Connect Metamask failed!',
+  LOGIN_ERROR_MESSENGER: 'Something went wrong! Please try again later',
+  NOT_ENOUGH_BALANCE: "Your wallet doesn't have enough balance!",
+  LOGOUT_SUCCESS: 'Logout success!',
+  UPDATE_REF_CODE_SUCCESS: 'Update ref code success!',
+  UPDATE_REF_BY_SUCCESS: 'Success!',
+  UPDATE_PROFILE_SUCCESS: 'Update profile success!',
+  IMPORT_WALLET_SUCCESS: 'Import wallet success!',
+  SEND_TRANSACTION_SUCCESS: 'Send transaction success!',
+  ADD_VOTE_SUCCESS: 'Add vote token success!',
+  REMOVE_VOTE_SUCCESS: 'Remove vote token success!',
+  FETCH_BALANCE_FAILED: 'Fetch balance failed!',
+});
